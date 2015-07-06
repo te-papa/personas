@@ -9,7 +9,7 @@
           {% if link.path contains 'persona' %}
               <li>
                   <a href="{{ link.url | prepend: site.baseurl }}">
-                      <img {% if page.url contains link.url %} class="active" {% endif %} src="{{ site.baseurl }}/assets/{{ link.title | lowercase }}.jpg" />
+                      <img {% if page.url contains link.url %} class="active" {% endif %} src="{{ site.baseurl }}/assets/{{ link.title | downcase }}.jpg" />
                   </a>
               </li>
         {% endif %}
