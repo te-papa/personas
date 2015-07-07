@@ -37,6 +37,14 @@ p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
+    .post-content & {
+        color: #444;
+        line-height: 2em;
+    }
+}
+
+.post-content {
+    font-size: $small-font-size;
 }
 
 
