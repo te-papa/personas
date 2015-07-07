@@ -1,6 +1,7 @@
 ---
 layout: persona
-title:  "Vicky"
+title: "Vicky"
+image: "vicky"
 demographic: [60s, Nelson, Doesn’t visit the Museum, Part-time museum volunteer]
 
 ---

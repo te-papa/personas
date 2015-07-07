@@ -1,6 +1,7 @@
 ---
 layout: persona
 title:  "Jack"
+image:  "jack"
 demographic: [20s, Bachelor degree, International visitor, Travelling, Museum visitor]
 ---
 

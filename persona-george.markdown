@@ -1,6 +1,7 @@
 ---
 layout: persona
 title:  "George"
+image:  "george"
 demographic: [40s, Christchurch, Doesn’t visit the Museum]
 ---
 

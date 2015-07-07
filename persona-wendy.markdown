@@ -1,6 +1,7 @@
 ---
 layout: persona
 title:  "Wendy"
+image:  "wendy"
 demographic: [30s, Mum of three, Wellington, Occasional museum visitor]
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: persona
 title:  "Sharon"
+image:  "sharon"
 demographic: [50s, Auckland]
 ---
 

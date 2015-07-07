@@ -1,6 +1,7 @@
 ---
 layout: persona
 title:  "Sally"
+image:  "sally"
 demographic: [16, In secondary school, Wellington, Occasional museum visitor]
 ---
 
