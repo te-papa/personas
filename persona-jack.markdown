@@ -1,7 +1,7 @@
 ---
 layout: persona
-title:  "Jack"
-image:  "jack"
+title:  "Jack (tourist)"
+image: "jack"
 demographic: [20s, Bachelor degree, International visitor, Travelling, Museum visitor]
 ---
 
@@ -51,7 +51,7 @@ If I use the Te Papa website it’s got to:
 
 * Show me the basic information I need – when, where and how
 * Work well on my mobile and tablet
-* Persuade me to visit – there’s loads of other things to do in Wellington
+* Persuade me to visit – there are loads of other things to do in Wellington
 * Let me buy tickets so I can skip the queues
 
 ##I want you to

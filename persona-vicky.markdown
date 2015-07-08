@@ -1,6 +1,6 @@
 ---
 layout: persona
-title: "Vicky"
+title:  "Vicky (volunteer)"
 image: "vicky"
 demographic: [60s, Nelson, Doesn’t visit the Museum, Part-time museum volunteer]
 
@@ -14,6 +14,14 @@ I was born in Nelson and have lived here all my life. Family and community are b
 
 I’m well-read and knowledgeable about my local museum and area, although I don’t have a university degree. I’ve been trying to teach myself to use the internet – but it takes a lot of patience and my connection isn’t very good. I’ve got poor vision so sometimes I struggle to read websites.  
 I love to be involved in my community and to share what I know with others. Te Papa’s resources are really helpful for this.
+
+##Attributes
+* Longer attention span
+* Pull content
+* Re-use
+* Share knowledge
+* Time poor
+* Value me
 
 
 
@@ -53,11 +61,12 @@ If I use the Te Papa website it’s got to:
 * have easy to understand information
 * tell me what I can and can’t do with the information I find
 
-##I want to
+##I want you to
 
-* learn more and extend my knowledge
-* be guided by experts
-* get help with issues important to my museum
-* be informed
+* inform me
+* guide me
+* help me
+* educate me
+* value me
 
 </div>

@@ -1,8 +1,8 @@
 ---
 layout: persona
-title:  "Sharon"
-image:  "sharon"
-demographic: [50s, Auckland]
+title:  "Sharon (educator)"
+image: "sharon"
+demographic: [50s, Auckland, Rarely visits the Museum]
 ---
 
 {::options parse_block_html="true" /}
@@ -34,8 +34,8 @@ I try to include te reo and Māori concepts in my classes, but it can be hard fo
 * To easily find authoritative, trustworthy subject-based resources that I can use in my classroom
 * To understand how I can use and re-use the resources
 * Professional development and training
-* To see what’s on at (and maybe book)  Te Papa for schools – self-guided tours and hosted by educators
-* To connect her class with experts at Te Papa – digitally, as and when she needs – either live or via filmed resources (e.g. when she’s teaching that topic e.g. feathers – wants to speak to a vertebrate curator, or a major event e.g. earthquakes – she wants to be able to point to Hamish)
+* To see what’s on at (and maybe book a trip to)  Te Papa for schools – self-guided tours and hosted by educators
+* To connect her class with experts at Te Papa – digitally, as and when she needs – either live or via filmed resources
 
 ##My pain points
 * I find it difficult to find time to plan
@@ -52,16 +52,15 @@ I try to include te reo and Māori concepts in my classes, but it can be hard fo
 <div class="col">
 
 ##Website must haves
-If I use the Te Papa website it’s got to:
+If I use the Te Papa website it’s got to have:
 
 * categorisation by age, subject, topic and levels
 * easy to find stuff I can use in my classroom
 * easy to understand resources I can remix or use as they are
 * things that I can share with peers
 * clear navigation and an easy search so I can find what I need
-* shareability/ease of takeaways (reword)
 * a way to book education experiences
-* make it clear what I can and can’t do with the resources I find
+* clear instructions on what I can and can’t do with the resources I find
 
 ##I want you to
 * Guide me

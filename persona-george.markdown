@@ -1,6 +1,6 @@
 ---
 layout: persona
-title:  "George"
+title:  "George (enthusiast)"
 image:  "george"
 demographic: [40s, Christchurch, Doesn’t visit the Museum]
 ---
@@ -10,7 +10,7 @@ demographic: [40s, Christchurch, Doesn’t visit the Museum]
 
 ##About George
 I’m into sports and the outdoors, tech and New Zealand history. I’m pretty passionate about my hobbies! You’d call me an outdoorsy traditionalist. I’m fairly literate and I know my way around the internet – self-taught, largely. I don’t use social media though, it’s a waste of time.
-I’m not particularly invested in Te Papa, but I’ll be stoked if you have information on my hobby. That’s what I spend most time online searching for.
+I’m not particularly invested in Te Papa, but I’ll be stoked if you have information on my hobby. I spend most of my time online researching my subject of interest.
 I like pictures and videos and things I can take away or do things with. I don’t want to read heaps of academic-sounding stuff, but I’m happy to read in-depth about a subject that interests me.
 
 ##Attributes

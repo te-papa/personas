@@ -1,7 +1,7 @@
 ---
 layout: persona
-title:  "Wendy"
-image:  "wendy"
+title:  "Wendy (Wellingtonian)"
+image: "wendy"
 demographic: [30s, Mum of three, Wellington, Occasional museum visitor]
 ---
 
@@ -41,11 +41,11 @@ I don’t have a lot of money, and most of my time and effort goes into my famil
 ##Website must haves
 If I use the Te Papa website it’s got to:
 
-* maps
-* key things – times, prices
-* categorisation and related “right now” info
-* info pushed to channels I use eg social
-* info on visiting with elderly/disabled visitors, prams etc
+* Show me the basic information I need – when, where and how
+* Have categorisation and related “right now” information
+* Push info to the channels I use – social and newsletters
+* Help me visit with elderly / disabled visitors and young children
+
 
 ##I want you to
 
